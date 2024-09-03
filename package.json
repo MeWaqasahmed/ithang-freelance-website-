@@ -1,0 +1,25 @@
+{
+  "name": "project_5",
+  "version": "1.0.0",
+  "description": "a project to demonstrate npm init",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react-scripts": "^4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeWaqasahmed/ithang-freelance-website-.git"
+  },
+  "keywords": [
+    "ithang-freelance-website"
+  ],
+  "author": "waqas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MeWaqasahmed/ithang-freelance-website-/issues"
+  },
+  "homepage": "https://github.com/MeWaqasahmed/ithang-freelance-website-#readme"
+}
